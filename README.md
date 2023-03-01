@@ -1,2 +1,2 @@
 ### Adobe-challenge-2022
-This is a presentation we made for adobe analytics challenge 2022 . We had to draw a comparison between buisness and leisure treavels and present it using data given.
+We created this presentation for the Adobe Analytics Challenge 2022. It was our obligation to evaluate business and pleasure travel using the information provided.We also have to utilise data analysis to support it.
